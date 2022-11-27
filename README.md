@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Keduse
 - 👀 I’m interested in computer programming and currently learning about computer science.
 - 💞️ I’m down to collaborate on anything from web design to Java programs to Python and Lua projects. 
-- 📫 You can reach me through any of my links found on the left hand side of my website at https://keduse.com
+- 📫 You can reach me through any of my links found on the left hand side of my website at [not published yet]
